@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://media.globalcitizen.org/thumbnails/ef/3e/ef3e57f3-89e5-45f5-a5c0-bac4cf341800/the-unexpected-lessons-of-parkour__1600x900_q85_crop_subsampling-2.jpg");
+    background-position: right top;
+    background-attachment: fixed;
+      text-shadow: 1px 1px 2px rgb(0, 0, 0), 0 0 30px rgb(0, 0, 0), 0 0 50px rgb(0, 0, 0);
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(97, 20, 20);
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  
+  p{
+      color: #1f06aa;
+      font-family: Tahoma, Verdana, sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+  }
+  
+  h1{
+      color: #800000;
+      font-family: 'Courier New', monospace;
+      font-size: 50px;
+      
+  }
+  
+  h5{
+      color: #025e5e;
+      font-size: 30px;
+  
+      
+  }
+  
+  th{
+      color: #9c370e;
+      font-size: 20px; 
+  
+  
+  }
+  
